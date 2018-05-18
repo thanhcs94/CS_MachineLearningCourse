@@ -1,10 +1,29 @@
-# ml-prework
+# ML Course
 
-# Question 1
-![](https://dzwonsemrish7.cloudfront.net/items/1U2m0j3S2s2B2M3k0c3N/Screen%20Shot%202018-05-06%20at%202.34.53%20PM.png?v=30fe703f)
+For Week 2, you'll be building 3 new Machine Learning Classifiers and programmatically finding the best parameters and features to use for them..
 
-# Question 2
-![](https://dzwonsemrish7.cloudfront.net/items/1C0E0o1L3l020w1L083b/Screen%20Shot%202018-05-06%20at%202.35.18%20PM.png?v=39f2a736)
+Week 1: Recap
+What are 3 main steps in Machine Learning?
+What is a 'feature' ?
+What is 'classification'?
+What is 'supervised learning'?
+Describe kNN
+Describe Cross Validation
+Define Precision & Recall
 
-# Bonus 
-// update later
+
+Today
+Some more supervised classification techniques:
+Linear & Logistic Regression
+Support Vector Machines
+Decision Trees & Random Forests
+
+
+Today
+Model Improvement
+Variance & Bias
+Parameter Optimization
+Feature Selection
+
+
+#  Find out the best parameters and features to use
