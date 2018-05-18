@@ -1,10 +1,7 @@
-# ml-prework
+# Machine Learning Course May 07
 
-# Question 1
-![](https://dzwonsemrish7.cloudfront.net/items/1U2m0j3S2s2B2M3k0c3N/Screen%20Shot%202018-05-06%20at%202.34.53%20PM.png?v=30fe703f)
+Build your own Machine Learning applications, including: music recommendation and natural language processing systems. So cool!
 
-# Question 2
-![](https://dzwonsemrish7.cloudfront.net/items/1C0E0o1L3l020w1L083b/Screen%20Shot%202018-05-06%20at%202.35.18%20PM.png?v=39f2a736)
+In the end, you should be able to build a machine learning application of your choice, such as an application that makes movie recommendations, or an application that can detect spam in email, can classify restaurant reviews, etc. It just depends on what you are interested in :)
 
-# Bonus 
-// update later
+// updating...
